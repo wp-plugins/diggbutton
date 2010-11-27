@@ -2,7 +2,7 @@
 /*
 Plugin Name: Easy Digg Button
 Plugin URI: http://frankwalters.com/
-Description: The simplest way to add Digg Buttons to your WordPress blog.  One click setup and start getting dugg on Digg for posts on your blog.
+Description: The simplest way to add a Digg Button to posts on your WordPress blog.  One click setup and start getting dugg on Digg for posts on your blog.
 Version: 1.0
 Author: frankwalters
 Author URI: http://frankwalters.com/
