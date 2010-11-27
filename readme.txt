@@ -1,19 +1,21 @@
-=== Digg Buttons ===
+=== Digg Button ===
 Contributors: frankwalters
 Tags: digg, post, posting, sharing, digg share button, digg button, share, dugg, dig, dug
 Requires at least: 3.0
 Tested up to: 3.0.1
 Stable tag: 1.0
 
-The simplest way to add Digg Buttons to your WordPress blog.  One click setup and start getting dugg on Digg for posts on your blog.
+The simplest way to add a Digg Button to posts on your WordPress blog.  One click setup and start getting dugg on Digg for posts on your blog.
 
 == Description ==
 
-The simplest way to add Digg Buttons to your WordPress blog.  Just activate the plugin and start getting dugg on Digg for posts on your blog.  People will be sharing your posts on Digg before you know it and giving you more traffic and readers on your site.
+The simplest way to add a Digg Button to posts on your WordPress blog.  Just activate the plugin and start getting dugg on Digg for posts on your blog.  People will be sharing your posts on Digg before you know it and giving you more traffic and readers on your site.
 
 No complicated setup or mess of settings.  Just activate and you're done!
 
 You have the option to add the Digg Button at the top of your posts or at the bottom.  This setting is available on the "Reading" page of your settings in your WordPress admin panel. It will default to the bottom of the post.
+
+The simplest Digg Button plugin!
 
 == Installation ==
 
